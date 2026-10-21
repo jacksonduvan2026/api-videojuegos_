@@ -1,6 +1,7 @@
-const games = [ 
-    { id: 1, title: 'The Legend of Zelda', genre: 'Aventura', platform: 'Switch' },
-    { id: 2, title: 'Minecraft', genre: 'Sandbox', platform: 'Multiplataforma' },
-    { id: 3, title: 'Valorant', genre: 'Shooter', platform: 'PC' } ]; 
+const games = [
+  { id: 1, title: 'The Legend of Zelda', genre: 'Aventura', platform: 'Switch' },
+  { id: 2, title: 'Minecraft', genre: 'Sandbox', platform: 'Multiplataforma' },
+  { id: 3, title: 'Valorant', genre: 'Shooter', platform: 'PC' }
+];
 
-module.exports = games; 
+export default games;
